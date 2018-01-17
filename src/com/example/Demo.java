@@ -30,5 +30,6 @@ public class Demo {
 		System.out.println("add new feature in eclipse");
 		System.out.println("Fix the issue-#001 bug");
 		System.out.println("fork flow test src add feature");
+		System.out.println("fork flow test clone add feature");
 	}
 }
