@@ -21,6 +21,7 @@ public class Demo {
 		System.out.println("hello git");
 		System.out.println("rebase test 111");
 		System.out.println("rebase test 222");
+		System.out.println("rebase test 333");
 		System.out.println("rebase test aaa");
 		System.out.println("rebase test bbb");
 	}
